@@ -1,0 +1,32 @@
+Nummer,Kategorie,Analytics
+01,"Planung (Termine, Arbeitslast)","prediction and intervention"
+02a,Lerninteraktion,"monitoring and analysis"
+02b,Lerninteraktion,"monitoring and analysis"
+02c,Lernfortschritt,"monitoring and analysis"
+03a,Übersicht Aktivität,"monitoring and analysis"
+03b,Lernfortschritt,"assessment and feedback"
+03c,Lerninteraktion,"assessment and feedback"
+04,Personeninteraktionen;Lerninteraktion,"monitoring and analysis"
+05,"Planung (Termine, Arbeitslast)","prediction and intervention"
+06,Personeninteraktionen,"monitoring and analysis"
+07a,"Planung (Termine, Arbeitslast)","assessment and feedback"
+07b,Feedbackübersicht,"assessment and feedback"
+07c,Lerninteraktion,"monitoring and analysis"
+07d,Lernfortschritt,"monitoring and analysis"
+07e,Feedbackübersicht,"assessment and feedback"
+07f,Lerninteraktion,"monitoring and analysis"
+08,Lernfortschritt,"monitoring and analysis"
+09,Übersicht Aktivität,"monitoring and analysis"
+10,Lerninteraktion,"assessment and feedback"
+11,"Planung (Termine, Arbeitslast)","prediction and intervention"
+12a,Systemmonitoring,"monitoring and analysis"
+12b,Systemmonitoring,"monitoring and analysis"
+12c,Systemmonitoring,"monitoring and analysis"
+12d,Systemmonitoring,"monitoring and analysis"
+12e,Systemmonitoring,"prediction and intervention"
+12f,"Planung (Termine, Arbeitslast)",misc
+12g,Systemmonitoring,"monitoring and analysis"
+12h,Sonstiges,misc
+12i,Sonstiges,misc
+12j,Übersicht Aktivität,"monitoring and analysis"
+13,Sonstiges,misc
