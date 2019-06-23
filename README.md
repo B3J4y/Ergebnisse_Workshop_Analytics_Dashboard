@@ -1,4 +1,5 @@
 # Repository zum DeLFI Beitrag: Analytics-Dashboard für Lehre, Forschung und Transfer
+[![DOI](https://zenodo.org/badge/192695578.svg)](https://zenodo.org/badge/latestdoi/192695578)
 ## Was wird hier dargestellt und warum?
 Dieses Repository stellt Daten aus einem Workshop dar, in dem die Zielstellung das Design eines Analytics-Dashboard
 für den Hochschulbereich war. Mit Hilfe dieser Komponenten sollte eine Idee geschaffen werden, was sich 
